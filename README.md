@@ -11,3 +11,6 @@ Info window
 All with a single tap on the screen 
 A double tap can create Picture in Picture
 #iphone #ipad #tvos #macOS #playerstv #player #controller #movies
+
+
+https://github.com/FrankVilla/player/blob/main/Screenshot%202023-05-15%20at%2019.44.07.png
