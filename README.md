@@ -1,5 +1,4 @@
-# player
-Player Controls 
+# Player Controls 
 
 I am proud to introduce my most dynamic version of the iOS player for tvOS iOS player iPone iPad, which can integrate with the Brightcove Player SDK for tvOS user interface https://rb.gy/98sqm.
 
